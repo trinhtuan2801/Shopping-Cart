@@ -1,0 +1,73 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopping-cart</title>
+<link rel="stylesheet" href="homepage.css">
+<!-- font awesome -->
+<script src="https://kit.fontawesome.com/89849850de.js" crossorigin="anonymous"></script>
+<!-- end of font awesome -->
+</head>
+<body>
+<!-- navbar -->
+<nav class="navbar">
+    <div class="navbar-center">
+        <span class="nav-icon">
+        <i class="fas fa-bars"></i>
+        </span>
+        <img src="./images/download.svg" alt="store logo"/>
+        <!-- cart-btn will be taken out for shopee -->
+        <div class="cart-btn">
+            <span class="nav-icon">
+                <i class="fas fa-cart-plus"></i>
+            </span>
+            <div class="cart-items">0</div>
+        </div>
+    </div>
+</nav>
+<!-- end of navbar -->
+<!-- hero -->
+<header class="hero">
+    <div class="banner">
+        <h1 class="bannner-title">Welcome</h1>
+        <button class="banner-btn" onclick="document.getElementById('blink').scrollIntoView();">shop now</button>
+
+    </div>
+</header>
+<!-- end of hero -->
+<!-- products -->
+<section class="products">
+    <div class="section-title" id="blink">
+        <h2>Our products</h2>
+    </div>
+    <div class="products-center">
+    
+    </div>
+</section>
+<!-- end of products -->
+<!-- cart -->
+<div class="cart-overlay">
+    <div class="cart">
+        <span class="close-cart">
+          <i class="fas fa-window-close"></i>
+        </span>
+    <h2>Your cart</h2>
+     <div class="cart-content">
+         
+     </div>
+        <div class="cart-footer">
+            <h3>your total :  <span class="cart-total">0</span>₫</h3>
+            <a href="./cart.html">
+            <button class="check-out banner-btn">check-out</button>
+            </a>
+            <button onclick="window.location.reload()" class="clear-cart banner-btn">clearcart</button>
+    </div>
+</div>
+<!-- end of cart -->
+
+<script src="app.js"></script>
+<script src="checkout.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "title": "ZA11",
+        "price": 1400000,
+        "image": "https://product.hstatic.net/1000129940/product/chuot-zowie-za11-v2_20_1_.jpg"
+    },
+    {
+        "id": "2",
+        "title": "G Pro Wireless",
+        "price": 3000000,
+        "image": "https://cf.shopee.vn/file/2aad859546b0c02a649acad4427d6763"
+    },
+    {
+        "id": "3",
+        "title": "Akko 3068 World Tour Tokyo",
+        "price": 3000000,
+        "image": "https://www.phongcachxanh.vn/web/image/product.template/19990/image_1024?unique=c69c89b"
+    }
+]

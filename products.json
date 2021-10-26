@@ -1,0 +1,97 @@
+[
+  
+    {
+      "id": "1",
+      "title": "queen panel bed",
+      "price": 10.99,
+      "image":  "./images/product-1.jpeg"
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "king panel bed",
+        "price": 12.99,
+        "image":  "./images/product-2.jpeg" 
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "single panel bed",
+        "price": 12.99,
+        "image":  "./images/product-3.jpeg" 
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "twin panel bed",
+        "price": 22.99,
+        "image":  "./images/product-4.jpeg"
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "fridge",
+        "price": 88.99,
+        "image":  "./images/product-5.jpeg"
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "dresser",
+        "price": 32.99,
+        "image": "./images/product-6.jpeg"
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "couch",
+        "price": 45.99,
+        "image":  "./images/product-7.jpeg" 
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "table",
+        "price": 33.99,
+        "image":  "./images/product-8.jpeg" 
+      }
+    },
+   
+    
+    {
+      "sys": {"id": "9"},
+      "fields": {
+        "title": "ZA11",
+        "price": 1400000,
+        "image":  "https://product.hstatic.net/1000129940/product/chuot-zowie-za11-v2_20_1_.jpg" 
+      }
+    },
+    {
+      "sys": {"id": "10"},
+      "fields": {
+        "title": "G Pro Wireless",
+        "price": 3000000,
+        "image": "https://cf.shopee.vn/file/2aad859546b0c02a649acad4427d6763" 
+ }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "Akko 3068 World Tour Tokyo",
+        "price": 1200000,
+        "image":  "https://www.phongcachxanh.vn/web/image/product.template/19990/image_1024?unique=c69c89b" 
+      }
+    }
+
+
+    
+
+
+  
+  ]
